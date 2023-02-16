@@ -4,15 +4,11 @@
   
 Say goodbye to boring SMS conversations! Our new Android SMS App is here to bring you a refreshing messaging experience. Our app offers you the ultimate satisfaction of sending and receiving SMS/MMS messages, with an array of features and customization options.
 
-
 The app allows you to send FREE messages and SMS, as well as video and voice messages. You can customize your chat with different colorful themes, and even count the number of messages you sent or received. You can also schedule messages to send them at a later time.
-
 
 Our app is designed to make messaging fun and easy. It has an intuitive user interface that lets you quickly find conversations, contacts, and messages. You can also easily search for content, and send and receive messages in a snap. You can even customize the font size, so you don't have to strain your eyes when reading long messages.
 
-
 =======KEY FEATURES=======
-
 
 1. FREE MESSAGES AND SMS: You can send messages and SMS for free with our app.
 
